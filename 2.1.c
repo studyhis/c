@@ -2,9 +2,9 @@
 
 int main()
 {
-	printf("Shisong Zhang\n");
-	printf("Shisong\n");
+	printf("Shi Zhang\n");
+	printf("Shi\n");
 	printf("Zhang\n");
-	printf("Shisong Zhang\n");
+	printf("Shi Zhang\n");
 	return 0;
 }
