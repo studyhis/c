@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("My name is Zhangshisong\n");
+	printf("My name is Z\n");
 	printf("I am live in China\n");
 
 
