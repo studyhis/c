@@ -1,6 +1,6 @@
 #include<stdio.h>
-void br();//调用函数
-void ic();//调用函数
+void br();
+void ic();
 int main()
 {
 	br();
