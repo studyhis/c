@@ -24,7 +24,7 @@
 //}
 
 #include<stdio.h>
-void Smile();//调用一个函数
+void Smile();
 int main()
 {
 	Smile();
