@@ -4,6 +4,6 @@ int main()
 {
 	float i;
 	i = 1 * feet;
-	printf("1Ó¢´ç=%.2fcm", i);
+	printf("1è‹±å¯¸=%.2fcm", i);
 	return 0;
 }
