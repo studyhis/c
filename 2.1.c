@@ -2,9 +2,8 @@
 
 int main()
 {
-	printf("Shi Zhang\n");
-	printf("Shi\n");
-	printf("Zhang\n");
-	printf("Shi Zhang\n");
+	printf("Hello World\n");
+	printf("Hello\n");
+	printf("world\n");
 	return 0;
 }
